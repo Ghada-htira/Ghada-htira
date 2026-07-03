@@ -10,8 +10,7 @@ I enjoy designing and building scalable web applications, solving complex techni
 ---
 
 ## 🛠️ Tech Stack
-
-**Cybersecurity** — OWASP Top 10 · DAST · CVSS · JWT · OAuth2 · RBAC  
+  
 **Languages** — Python · JavaScript · TypeScript · Java · PHP · C · C#  
 **Frameworks** — Django · Django REST · React · Vue.js · Flask  
 **AI / ML** — Scikit-Learn · PyTorch · XGBoost · Isolation Forest · NLP  
