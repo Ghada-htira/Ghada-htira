@@ -15,21 +15,21 @@
 
 ---
 
-### 🌷 About Me
+###  About Me
 
 I'm a developer passionate about building software solutions, exploring cybersecurity, and experimenting with AI-driven technologies.
 
 My background combines full-stack development, backend engineering, database design, and machine learning. I'm also exploring cybersecurity through hands-on labs, CTF challenges, and personal projects.
 
-- 🔭 Currently working on **full-stack development projects, cybersecurity labs, and CTF challenges**.
-- 🌱 Currently learning **cybersecurity, Linux, networking, and system administration**.
-- 💡 Interested in **secure software development, AI, and emerging technologies**.
+- Currently working on **full-stack development projects, cybersecurity labs, and CTF challenges**.
+- Currently learning **cybersecurity, Linux, networking, and system administration**.
+- Interested in **secure software development, AI, and emerging technologies**.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-**୨୧ Programming Languages**
+**Programming Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-DCC7F0?style=for-the-badge&logo=python&logoColor=49345C" />
@@ -43,7 +43,7 @@ My background combines full-stack development, backend engineering, database des
   <img src="https://img.shields.io/badge/Bash-D5E9D8?style=for-the-badge&logo=gnubash&logoColor=365B40" />
 </p>
 
-**୨୧ Frontend & Backend Development**
+**Frontend & Backend Development**
 
 <p>
   <img src="https://img.shields.io/badge/React-D4EAF2?style=for-the-badge&logo=react&logoColor=39768B" />
@@ -60,7 +60,7 @@ My background combines full-stack development, backend engineering, database des
   <img src="https://img.shields.io/badge/.NET-DCD4F1?style=for-the-badge&logo=dotnet&logoColor=594A86" />
 </p>
 
-**୨୧ AI & Machine Learning**
+**AI & Machine Learning**
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-D5DDF0?style=for-the-badge&logo=numpy&logoColor=435C83" />
@@ -69,7 +69,7 @@ My background combines full-stack development, backend engineering, database des
   <img src="https://img.shields.io/badge/TensorFlow-F5E0BB?style=for-the-badge&logo=tensorflow&logoColor=87612B" />
 </p>
 
-**୨୧ Databases**
+**Databases**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-D2E0F0?style=for-the-badge&logo=postgresql&logoColor=426384" />
@@ -79,7 +79,7 @@ My background combines full-stack development, backend engineering, database des
   <img src="https://img.shields.io/badge/SQLite-D8E3F0?style=for-the-badge&logo=sqlite&logoColor=45647F" />
 </p>
 
-**୨୧ Tools, Systems & DevOps**
+**Tools, Systems & DevOps**
 
 <p>
   <img src="https://img.shields.io/badge/Docker-D1E4F5?style=for-the-badge&logo=docker&logoColor=3B6F9A" />
@@ -92,7 +92,7 @@ My background combines full-stack development, backend engineering, database des
 
 ---
 
-### 🎀 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://github.com/Ghada-htira">
@@ -107,7 +107,7 @@ My background combines full-stack development, backend engineering, database des
 </p>
 
 <p align="center">
-  <i>♡ Learning, creating, and growing one project at a time. ♡</i>
+  <i>♡ Learning, creating, and growing one project at a time. </i>
 </p>
 
 <p align="center">
